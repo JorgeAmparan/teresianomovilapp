@@ -1,5 +1,5 @@
 # teresianomovilapp
-> I developed this app back in 2020 and it is used by Colegio Teresiano de Ciudad Juárez for Push Notifications to school personell, students and parents, and for publishing school calendar and homework, audios and other relevant information for the school community.
+> I developed this app back in 2020 and it is used by Colegio Teresiano de Ciudad Juárez for push-notifications delivered to school personell, students and parents, and mainly used for publishing school calendar and classes homework, audios and other relevant information for the school community.
 
 
 ## Teresiano Móvil in Apple Store
